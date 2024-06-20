@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-AI Research Group is the organization focusing apply science by using Machine learning, Deep Learning.
+AI Research Group is the organization focusing on applied science by using Machine learning, Deep Learning.
 
 Our team members hail from various countries worldwide, including Austria, England, and Vietnam. 
 We focus our research on diverse areas such as:
