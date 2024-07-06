@@ -8,18 +8,18 @@ redirect_from:
 ---
 
 -----
-AI Research Group is the organization focusing on applied science by using Machine learning, Deep Learning.
+AI Research Group, which are from various countries worldwide of Austria, England, Japan, Korea and Vietnam, is focusing on applied science research leveraging Machine Learning and Deep Learning techniques.
 
-Our team members hail from various countries worldwide, including Austria, England, Japan, Korea and Vietnam. 
-We focus our research on diverse areas such as:
+We are doing research on diverse areas:
   - Audio/Speech
   - Signal processing
-  - Biomedical
-  - Natural language processing (NLP).
+  - Biomedical signal
+  - Natural language processing (NLP)
+    
 
 
 News
 ---
-* **13 Dec 2023:** <span style="color:#B22222">(New)</span> Two papers submited to IEEE 2024 5th International Symposium on the Internet of Sounds.
-* **4 Dec 2023:** <span style="color:#B22222">(New)</span> One papers accepted to IEEE 2023 4th International Symposium on the Internet of Sounds.
+* **6 July 2024:** <span style="color:#B22222">(New)</span> One paper accepted in IEEE FedCSIS 2024 (Conference on Computer Science and Intelligence Systems).
+* **4 Dec 2023:** <span style="color:#B22222">(New)</span> One papers accepted in IEEE IoS 2023 (International Symposium on the Internet of Sounds).
 
