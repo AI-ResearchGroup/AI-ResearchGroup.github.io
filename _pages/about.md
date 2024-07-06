@@ -25,6 +25,6 @@ News
   + https://arxiv.org/pdf/2407.01777
   + https://arxiv.org/pdf/2403.00379
 * **3 July 2024:** <span style="color:#B22222">(New)</span> One paper (pre-print: https://arxiv.org/abs/2401.15854) accepted in IEEE FedCSIS 2024 (Conference on Computer Science and Intelligence Systems).
-* **6 June 2024:** <span style="color:#B22222">(New)</span> One paper accepted in ACM CBMI 2024 (International Conference on Content-based Multimedia Indexing).
+* **6 June 2024:** <span style="color:#B22222">(New)</span> One paper (pre-print: https://arxiv.org/pdf/2407.03110) accepted in ACM CBMI 2024 (International Conference on Content-based Multimedia Indexing).
 * **4 Dec 2023:** <span style="color:#B22222"></span> One papers accepted in IEEE IoS 2023 (International Symposium on the Internet of Sounds).
 
