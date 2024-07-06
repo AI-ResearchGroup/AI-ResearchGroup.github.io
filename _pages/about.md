@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 -----
-AI Research Group, which are from various countries worldwide of Austria, England, Japan, Korea and Vietnam, is focusing on applied science research leveraging Machine Learning and Deep Learning techniques.
-
-We are doing research on diverse areas:
+AI Research Group, which are from various countries worldwide of Austria, England, Japan, Korea and Vietnam, is focusing on applied science research leveraging Machine Learning and Deep Learning techniques. We are doing research on diverse areas:
   - Audio/Speech
   - Signal processing
   - Biomedical signal
