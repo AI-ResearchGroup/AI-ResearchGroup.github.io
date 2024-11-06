@@ -8,14 +8,13 @@ author_profile: true
 Preprint(s)
 ------
 
-Phat Lam, Lam Pham, Tin Nguyen, Thinh Pham, Loi Khanh Nguyen, Alexander Schindler, __Towards Unsupervised Speaker Diarization System for Multilingual Telephone Calls Using Pre-trained Whisper Model and Mixture of Sparse Autoencoders__, *arXiv preprint arXiv:2407.01963*, 2024 [[PDF]](https://arxiv.org/pdf/2407.01963)
-
 Lam Pham, Phat Lam, Truong Nguyen, Huyen Nguyen, Alexander Schindler, __Deepfake Audio Detection Using Spectrogram-based Feature and Ensemble of Deep Learning Models__, *arXiv preprint arXiv:2407.01777*, 2024 [[PDF]](https://arxiv.org/pdf/2407.01777)
 
 Tin Nguyen, Lam Pham, Phat Lam, Dat Ngo, Hieu Tang, Alexander Schindler, ___The Impact of Frequency Bands on Acoustic Anomaly Detection of Machines using Deep Learning Based Model___, *arXiv preprint arXiv:2403.00379*, 2024 [[PDF]](https://arxiv.org/pdf/2403.00379)
 
 2024
 ------
+Phat Lam, Lam Pham, Tin Nguyen, Thinh Pham, Loi Khanh Nguyen, Alexander Schindler, __Towards Unsupervised Speaker Diarization System for Multilingual Telephone Calls Using Pre-trained Whisper Model and Mixture of Sparse Autoencoders__, *Proc. Symposium on Information and Communication Technology*, 2024 [(Accepted)](https://arxiv.org/pdf/2407.01963)
 
 Phat Lam, Lam Pham, Tin Nguyen, Hieu Tang, Michael Seidl, Medina Andresel, Alexander Schindler, ___LSTM-based Deep Neural Network With A Focus on Sentence Representation for Sequential Sentence Classification in Medical Scientific Abstracts___, *Proc. Conference on Computer Science and Intelligence Systems*, 2024 [(Accepted)](https://arxiv.org/pdf/2401.15854)
 
