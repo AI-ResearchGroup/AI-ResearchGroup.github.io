@@ -8,7 +8,7 @@ author_profile: true
 Preprint(s)
 ------
 
-Lam Pham, Phat Lam, Truong Nguyen, Huyen Nguyen, Alexander Schindler, __Deepfake Audio Detection Using Spectrogram-based Feature and Ensemble of Deep Learning Models__, *arXiv preprint arXiv:2407.01777*, 2024 [[PDF]](https://arxiv.org/pdf/2407.01777)
+Lam Pham, Phat Lam, Tin Nguyen, Hieu Tang, Dat Tran, Alexander Schindler, Florian Skopik, Alexander Polonsky, Canh Vu, __Deepfake Audio Detection Using Spectrogram-based Feature and Ensemble of Deep Learning Models__, *arXiv preprint arXiv:2407.01777*, 2024 [[PDF]](https://arxiv.org/pdf/2407.01777)
 
 Tin Nguyen, Lam Pham, Phat Lam, Dat Ngo, Hieu Tang, Alexander Schindler, ___The Impact of Frequency Bands on Acoustic Anomaly Detection of Machines using Deep Learning Based Model___, *arXiv preprint arXiv:2403.00379*, 2024 [[PDF]](https://arxiv.org/pdf/2403.00379)
 
